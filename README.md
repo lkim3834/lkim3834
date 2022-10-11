@@ -1,8 +1,7 @@
-### Hi there 👋
+### Hello there 👋, I'm Leejin Kim! <img src="https://img.icons8.com/emoji/48/000000/woman-technologyst.png" /> 
 
 <!--
-**lkim3834/lkim3834** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+cmd-shift-k-v to put the example on the side
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -14,3 +13,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+* Currently: BS CS student at University of California, Santa Cruz 
