@@ -13,6 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+😄 Pronouns: she/her/hers
+📫 How to reach me: lkim17@ucsc.edu 
 
 * Currently: BS CS student at University of California, Santa Cruz 
