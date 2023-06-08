@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 😄 Pronouns: she/her/hers
-- 🌱 Portfolio : https://leejiniankimportfolio.net/ 
+- 🌱 Portfolio : [https://leejiniankimportfolio.net/ ](http://www.leejiniankimportfolio.net)
 - 📫 How to reach me: lkim17@ucsc.edu 
 
 Currently: Recent graduate with a Bachelor of Science in Computer Science from the University of California, Santa Cruz.
