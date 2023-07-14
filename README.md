@@ -1,4 +1,4 @@
-### Hello there 👋, I'm Leejin Kim! <img src="https://img.icons8.com/emoji/48/000000/woman-technologyst.png" /> 
+### Hello there 👋, I'm Ian Kim! <img src="https://img.icons8.com/emoji/48/000000/woman-technologyst.png" /> 
 
 <!--
 cmd-shift-k-v to put the example on the side
