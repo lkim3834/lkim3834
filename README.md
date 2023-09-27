@@ -18,3 +18,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: lkim17@ucsc.edu 
 
 Currently: Recent graduate with a Bachelor of Science in Computer Science from the University of California, Santa Cruz.
+
+ ![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=lkim3834.lkim3834)
