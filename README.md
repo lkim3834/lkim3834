@@ -19,4 +19,5 @@ Here are some ideas to get you started:
 
 Currently: Recent graduate with a Bachelor of Science in Computer Science from the University of California, Santa Cruz.
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=lkim3834.lkim3834)
+![Profile views](https://URL_OF_YOUR_APP/api?username=lkim3834)
+
