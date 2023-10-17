@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 -->
 - 😄 Pronouns: she/her/hers
 - 🌱 Portfolio : [https://leejiniankimportfolio.net/ ](http://www.leejiniankimportfolio.net)
-- 📫 How to reach me: lkim17@ucsc.edu 
+- 📫 How to reach me: rladlwls17@gmail.com 
 
 Currently: Recent graduate with a Bachelor of Science in Computer Science from the University of California, Santa Cruz.
